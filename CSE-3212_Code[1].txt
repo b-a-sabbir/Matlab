@@ -81,6 +81,7 @@ fprintf('\n\nThe root is =%f',x(k));
 
 ## Please describe every line of the following MATLAB code:
 /% Secant Method %/
+%x^3-2x-5=0
 clc;
 clear all;
 fx=input('Enter the function ,F(x) = ','s');
